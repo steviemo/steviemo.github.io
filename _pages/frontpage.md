@@ -1,7 +1,5 @@
 ---
 permalink: /
 layout: home
-list_title: My blog posts
+list_title: 
 ---
-
-TODO HEY
