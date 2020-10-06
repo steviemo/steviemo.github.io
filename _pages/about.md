@@ -16,7 +16,7 @@ All powered by [Amazon Web Services](https://aws.amazon.com) with a light touch 
 # Why blog?
 
 It has been something that I have been meaning to start for at least the last five years if not longer. I have worked on a ton of 
-interesting problems across both servers (back-end) and various clients (front-end) that I'd like to share.
+interesting problems across both servers and various web and native clients that I'd like to share.
 
 Like most developers when you start a new piece of work, you scope out the solution and get straight into the code. 
 You hit a roadblock or two they when you finally hit that eureka moment you say "I must write a blog about that", 
